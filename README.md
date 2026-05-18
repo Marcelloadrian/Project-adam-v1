@@ -1,8 +1,3 @@
-Here is the exact, raw Markdown code block.
-
-You can just click the **"Copy"** button on the top right of this code block, click the pencil icon on your GitHub `README.md`, paste it, and commit the changes!
-
-```markdown
 # Project Adam (Phase 1: Synthetic Data Ingestion & Baseline Study)
 
 Project Adam is an experimental framework designed to build an Autonomous Multi-Agent Social Ecosystem. The ultimate goal is to generate domain-specific synthetic social interactions, compress them into structural "Soul Documents," and train a Small Language Model (SLM) from scratch using sequential neural networks (LSTM) to mimic human behavioral biases, localized slang, and casual communication patterns.
