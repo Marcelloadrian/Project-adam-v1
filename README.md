@@ -89,7 +89,7 @@ print(json.dumps(data[:5], indent=2, ensure_ascii=False))
 
 **Specialization:** Computer Science / Machine Learning Infrastructure
 
-*Copyright © 2026 Tsem Li An. All rights reserved under the MIT License.*
+*Copyright © 2026 Adrian Marcello Budiman. All rights reserved under the MIT License.*
 
 ```
 
